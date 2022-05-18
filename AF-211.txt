@@ -1,0 +1,6 @@
+
+			<xmin>1116</xmin>
+			<ymin>1115</ymin>
+			<xmax>1383</xmax>
+			<ymax>1221</ymax>
+		

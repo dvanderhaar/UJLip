@@ -1,0 +1,1 @@
+top left: (1056, 1105), bottom right: (1389, 1249)
