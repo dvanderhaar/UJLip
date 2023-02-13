@@ -3,7 +3,7 @@ The ground truth labels for lips in the Chicago Face dataset (https://www.chicag
 
 Please cite our work:
 
-@article{https://doi.org/10.1049/bme2.12073,
+@article{farrukh2023,
 author = {Farrukh, Wardah and van der Haar, Dustin},
 title = {Lip print-based identification using traditional and deep learning},
 journal = {IET Biometrics},
@@ -13,7 +13,6 @@ pages = {1-12},
 keywords = {access control, biometrics, lip print identification},
 doi = {https://doi.org/10.1049/bme2.12073},
 url = {https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/bme2.12073},
-eprint = {https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/bme2.12073}
 year = {2023}
 }
 For any questions or suggestions please email dvanderhaar@uj.ac.za
